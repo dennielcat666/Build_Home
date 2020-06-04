@@ -2828,7 +2828,7 @@ img {
 
 .link_icon {
   display: inline-block;
-  background-image: url(../../img/sprite.png);
+  background-image: url(../img/sprite.png);
   background-repeat: no-repeat;
   width: 16px;
   height: 16px;
@@ -2903,7 +2903,7 @@ img {
   position: absolute;
   top: 9px;
   left: 207px;
-  background-image: url(../../img/search-icon.png);
+  background-image: url(../img/search-icon.png);
   background-repeat: no-repeat;
   background-position: 13px 11px;
   background-color: #35383c;
@@ -2942,7 +2942,7 @@ img {
   width: 360px; }
 
 .info_block_item_num {
-  background-image: url(../../img/step_numbers.png);
+  background-image: url(../img/step_numbers.png);
   background-repeat: no-repeat;
   width: 90px;
   height: 70px;
@@ -2958,7 +2958,7 @@ img {
   margin-left: 30px; }
 
 .info_block_common_icon {
-  background-image: url(../../img/step_icon.png);
+  background-image: url(../img/step_icon.png);
   background-repeat: no-repeat;
   width: 35px;
   height: 35px; }
@@ -2993,7 +2993,7 @@ img {
   font-weight: bold; }
 
 .info_block_common_link::after {
-  background-image: url(../../img/pointer.png);
+  background-image: url(../img/pointer.png);
   background-repeat: no-repeat;
   content: '';
   width: 11px;
@@ -3280,13 +3280,13 @@ img {
   background-position: 50%; }
 
 .footer_address::before {
-  background-image: url(../../img/marker.png); }
+  background-image: url(../img/marker.png); }
 
 .footer_phone:before {
-  background-image: url(../../img/phone_mini.png); }
+  background-image: url(../img/phone_mini.png); }
 
 .footer_mail:before {
-  background-image: url(../../img/mail_mini.png); }
+  background-image: url(../img/mail_mini.png); }
 
 .footer_copyright {
   padding: 0px;
