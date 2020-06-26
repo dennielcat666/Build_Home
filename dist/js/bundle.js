@@ -1164,8 +1164,6 @@ function _typeof(obj) { "@babel/helpers - typeof"; if (typeof Symbol === "functi
 
 $(function () {
   var $accordionPanelCaption = $('.accordion_panel_caption');
-  /* console.log(accordionPanelCaption); */
-
   $accordionPanelCaption.on('click', function () {
     $(this).toggleClass('open_panel');
   });

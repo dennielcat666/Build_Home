@@ -38,16 +38,11 @@ img {
     background-repeat: no-repeat;
     width: 16px;
     height: 16px;
-    /* transition: 0.2s all; */
 
     &:not(:last-child) {
         margin-right: 13px;
     }
 }
-
-// .link_icon:not(:last-child) {
-//     margin-right: 13px;
-// }
 
 .facebook {
     background-position: 0px 0px;
@@ -90,26 +85,6 @@ img {
     }
 }
 
-// .facebook:hover {
-//     background-position: 0px -29px;
-// }
-
-// .twitter:hover {
-//     background-position: -30px -29px;
-// }
-
-// .rss:hover {
-//     background-position: -63px -29px;
-// }
-
-// .linkedin:hover {
-//     background-position: -96px -29px;
-// }
-
-// .skype:hover {
-//     background-position: -129px -29px;
-// }
-
 .menu {
     &_container {
         display: flex;
@@ -144,39 +119,6 @@ img {
         }
     }
 }
-
-// .menu_top {
-//     display: flex;
-//     justify-content: space-between;
-//     background-color: #2a2d32;
-//     height: 55px;
-//     margin-top: 33px;
-// }
-
-// .menu_container {
-//     display: flex;
-//     justify-content: flex-start;
-// }
-
-// .menu_top_item {
-//     text-transform: uppercase;
-//     font-family: 'Ubuntu Condensed', sans-serif;
-//     font-size: 14px;
-//     color: white;
-//     text-align: center;
-//     padding: 20px 40px;
-//     border-right: 1px solid $border-color;
-//     font-stretch: ultra-condensed;
-//     text-decoration: none;
-// }
-
-// .menu_top_item:first-child {
-//     background-color: #248cec;
-// }
-
-// .menu_top_item:hover {
-//     color: #f4b60d;
-// }
 
 .form_search {
     position: relative;
@@ -234,19 +176,6 @@ img {
         }
     }
 }
-// .owl-carousel.slaider button.owl-dot {
-//     width: 15px;
-//     height: 15px;
-//     background: white;
-//     border: 3px solid white;
-//     margin: 0 8px;
-//   }
-  
-//   /* Активный маркер */
-// .owl-carousel.slaider button.owl-dot.active {
-//     background: black;
-//   }
-
 
 .info_block {
     margin-top: 70px;

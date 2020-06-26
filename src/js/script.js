@@ -1,8 +1,5 @@
-
-
 $(function (){
     const $accordionPanelCaption = $('.accordion_panel_caption');
-    /* console.log(accordionPanelCaption); */
 
     $accordionPanelCaption.on('click', function(){
         $(this).toggleClass('open_panel');

@@ -2831,8 +2831,7 @@ img {
   background-image: url(../img/sprite.png);
   background-repeat: no-repeat;
   width: 16px;
-  height: 16px;
-  /* transition: 0.2s all; */ }
+  height: 16px; }
   .link_icon:not(:last-child) {
     margin-right: 13px; }
 

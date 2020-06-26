@@ -27,12 +27,12 @@ gulp.task('dev',  function dev (cb) {
         .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest('./dist/css'));
     cb();
-  });
+});
 
  
 
 
-    gulp.task('watch', function (cb) {
-        gulp.task('dev');
-        gulp.watch('./src/**/*', gulp.task('dev'));
-    }); 
+gulp.task('watch', function (cb) {
+     gulp.task('dev');
+    gulp.watch('./src/**/*', gulp.task('dev'));
+}); 
