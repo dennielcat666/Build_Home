@@ -1,9 +1,8 @@
 # Build_Home
 
 ### GitHub Pages
-```bash
+
 https://dennielcat666.github.io/Build_Home/dist/index.html
-```
 
 ## Блок c баннером
 
@@ -16,7 +15,6 @@ https://dennielcat666.github.io/Build_Home/dist/index.html
 ## Адаптивная верстка
 
 Есть.
-
 
 
 ### Зависимости
